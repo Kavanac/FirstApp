@@ -7,6 +7,7 @@ public class FirstApp {
 		int[] a= {10,20,30,40,50};
 		for(int elem:a) {
 			System.out.println(elem);
+			System.out.println("This is the first commit");
 		}
 	}
 
